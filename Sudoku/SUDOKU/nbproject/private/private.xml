@@ -3,12 +3,14 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/BETA/Desktop/Sudoku/SUDOKU/src/presentacion/Launcher.java</file>
-            <file>file:/C:/Users/BETA/Desktop/Sudoku/SUDOKU/src/logic/Juego.java</file>
-            <file>file:/C:/Users/BETA/Desktop/Sudoku/SUDOKU/src/presentacion/Controlador.java</file>
-            <file>file:/C:/Users/BETA/Desktop/Sudoku/SUDOKU/src/logic/App.java</file>
-            <file>file:/C:/Users/BETA/Desktop/Sudoku/SUDOKU/src/logic/Sudoku.java</file>
-            <file>file:/C:/Users/BETA/Desktop/Sudoku/SUDOKU/src/presentacion/VistaMenu.java</file>
+            <file>file:/C:/Users/Estudiantes/Documents/Avanzada-master/Avanzada-master/SudokuBeta/SUDOKU/src/presentacion/VistaJuego.java</file>
+            <file>file:/C:/Users/Estudiantes/Documents/Avanzada-master/Avanzada-master/SudokuBeta/SUDOKU/src/presentacion/VistaMenu.java</file>
+            <file>file:/C:/Users/Estudiantes/Documents/Avanzada-master/Avanzada-master/SudokuBeta/SUDOKU/src/logic/App.java</file>
+            <file>file:/C:/Users/Estudiantes/Documents/Avanzada-master/Avanzada-master/SudokuBeta/SUDOKU/src/presentacion/controladorMenu.java</file>
+            <file>file:/C:/Users/Estudiantes/Documents/Avanzada-master/Avanzada-master/SudokuBeta/SUDOKU/src/Launcher/Launcher.java</file>
+            <file>file:/C:/Users/Estudiantes/Documents/Avanzada-master/Avanzada-master/SudokuBeta/SUDOKU/src/logic/Juego.java</file>
+            <file>file:/C:/Users/Estudiantes/Documents/Avanzada-master/Avanzada-master/SudokuBeta/SUDOKU/src/presentacion/Modelo.java</file>
+            <file>file:/C:/Users/Estudiantes/Documents/Avanzada-master/Avanzada-master/SudokuBeta/SUDOKU/src/logic/Sudoku.java</file>
         </group>
     </open-files>
 </project-private>

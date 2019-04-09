@@ -11,6 +11,12 @@ public class App {
     }
 //MÉTODOS 
 
+    public Sudoku getSudokuUno() {
+        return sudokuUno;
+    }
+
+    
+    
     public void iniciarJuego() {
         sudokuUno.generar();
     }
