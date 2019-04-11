@@ -35,9 +35,10 @@ public class controladorMenu implements ActionListener,ItemListener {
                     ventana.getModeloUno().seleccionarDificultad(40);
                     break;
                 case "Normal":
-                    ventana.getModeloUno().seleccionarDificultad(25);
+                  ventana.getModeloUno().seleccionarDificultad(25);
                     break; 
             }
         }
+       
     }
 }
